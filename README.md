@@ -15,6 +15,7 @@ true
 ```
 ``` javascript
 isEven('4');
+true
 ```
 
 # Returns
